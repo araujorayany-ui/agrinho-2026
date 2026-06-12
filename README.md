@@ -32,5 +32,4 @@ As seguintes tecnologias e bibliotecas foram utilizadas na construção deste fr
 └── script.js           # Lógica do simulador e interações dinâmicas
 
 ⚙️ Como Executar o Projeto Localmente
-[git clone [https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git](https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git)
-](https://araujorayany-ui.github.io/agrinho-2026/)
+[git clone(https://araujorayany-ui.github.io/agrinho-2026/)]
